@@ -1,4 +1,4 @@
-path: "/path/to/dataset"  # Dataset root folder
+path: "/media/isat/AHRQIII/Truama Thompson/Training_Model_V5"  # Dataset root folder
 
 # Train and Test folder
 train: images/train
@@ -22,6 +22,8 @@ names:
     12: syringe
     13: swab
     14: hook
+    15: driver
+    16: stylet
     15: driver
     16: stylet
 
