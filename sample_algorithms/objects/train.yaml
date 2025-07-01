@@ -1,4 +1,4 @@
-path: "/media/isat/AHRQIII/Truama Thompson/Training_Model_V5"  # Dataset root folder
+path: "/path/to/dataset"  # Dataset root folder
 
 # Train and Test folder
 train: images/train
