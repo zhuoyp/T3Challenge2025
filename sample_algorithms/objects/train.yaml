@@ -1,4 +1,3 @@
-# Trauma Thompson Task6 Tourniquet1 Dataset (YOLO format)
 path: "/path/to/dataset"  # Dataset root folder
 
 # Train and Test folder
@@ -23,5 +22,6 @@ names:
     12: syringe
     13: swab
     14: hook
-    
+    15: driver
+    16: stylet
 
